@@ -41,7 +41,7 @@ cd nombre-repo
 2. Ejecuta la aplicación con el siguiente comando:
 
 ```bash
-streamlit run valorcasa.py
+streamlit run ActividadFinalMIA09-ViviendaApp.py
 ```
 
 3. Se abrirá una nueva pestaña en tu navegador predeterminado con la aplicación.
