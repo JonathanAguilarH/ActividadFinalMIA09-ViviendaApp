@@ -4,8 +4,9 @@ Este proyecto es una aplicación web interactiva desarrollada con **Streamlit**,
 
 ## 📁 Contenido del Repositorio
 
-- `valorcasa.py`: Script principal de la aplicación.
+- `ActividadFinalMIA09-ViviendaApp.py`: Script principal de la aplicación.
 - `README.md`: Este archivo con instrucciones para la instalación y ejecución.
+- `requierements.txt`: Este archivo contiene las librerías necesarias para ejecutar la aplicación.
 
 ## 🚀 Requisitos
 
