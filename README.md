@@ -1,4 +1,3 @@
-
 # Visualización Interactiva de Datos de Vivienda 🏠
 
 Este proyecto es una aplicación web interactiva desarrollada con **Streamlit**, que permite visualizar y explorar datos de viviendas mediante filtros dinámicos y mapas interactivos. Es ideal para realizar análisis exploratorio de datos de viviendas con geolocalización, valores promedio, edad, población, entre otros.
@@ -34,7 +33,7 @@ pip install streamlit pandas folium streamlit-folium scikit-learn
 1. Clona este repositorio o descarga los archivos manualmente:
 
 ```bash
-git clone https://github.com/tu-usuario/nombre-repo.git
+git clone https://github.com/JonathanAguilarH/ActividadFinalMIA09-ViviendaApp.git
 cd nombre-repo
 ```
 
@@ -82,11 +81,5 @@ streamlit run valorcasa.py
 ## 🧪 Ejemplo de Datos
 
 Puedes utilizar el dataset de California Housing disponible en [Kaggle](https://www.kaggle.com/datasets/camnugent/california-housing-prices) o cualquier otro archivo `.csv` con la estructura mencionada anteriormente.
-
-## 📬 Contacto
-
-Para dudas o sugerencias, contacta al autor del repositorio a través de GitHub o correo electrónico.
-
----
 
 ¡Disfruta explorando los datos de vivienda! 🏡📍
