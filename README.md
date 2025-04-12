@@ -82,4 +82,10 @@ streamlit run valorcasa.py
 
 Puedes utilizar el dataset de California Housing disponible en [Kaggle](https://www.kaggle.com/datasets/camnugent/california-housing-prices) o cualquier otro archivo `.csv` con la estructura mencionada anteriormente.
 
+## 📖 Integrantes del Equipo 6
+- AGUILAR CASTILLO RUBEN
+- AGUILAR HERRERA JONATHAN CECILIO
+- JIMENEZ HERNANDEZ MIGUEL ANGEL
+- BERMUDEZ BARRIENTOS JÓSE MANUEL
+
 ¡Disfruta explorando los datos de vivienda! 🏡📍
